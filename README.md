@@ -1,6 +1,8 @@
-# BT4222 Project - Movies Recommendation System
+# BT4222 Project Group 5 - Movies Recommendation System
 
 ## Project Description 
+
+With the rapidly expanding streaming martket, consumers are subscribing to more providers and spending more time on streaming than ever before. As such, consumers are becoming increaingly overwhelmed by subscription fatigue and are seeking differentiated content (Simon Kucher, 2024). Our group has decided to tackle this issue by improving the accuracy and effectiveness of movie recommendation systems, that will provide recommendations that align with the wants and needs of the consumers. This will allow businesses to foster deeper connections withe the users, improve user satisfaction and therefore increase retention rate, in the form of increased subscription rates.
 
 ## Workflow 
 
