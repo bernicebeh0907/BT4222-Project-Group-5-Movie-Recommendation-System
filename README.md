@@ -40,6 +40,6 @@ To adress this issue, we sourced for datasets that were relevant to movie descri
 - Bernice: https://github.com/bernicebeh0907
 - Ern See: https://github.com/ogaycray
 - Hui Ling: https://github.com/hhuilingg
-- Subha: https://github.com/subhadhra-m
+- Subhadhra: https://github.com/subhadhra-m
 - Vanessa: https://github.com/vancwe03
 
