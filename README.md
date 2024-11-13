@@ -20,20 +20,22 @@ To adress this issue, we sourced for datasets that were relevant to movie descri
 
 ![Screenshot 2024-11-13 at 10 16 27 PM](https://github.com/user-attachments/assets/48eeb312-46d7-4454-be2a-48b2f06de836)
 
-## Workflow 
 
-- Raw Datasets
-- Data Preparation (done in VS code due to large datasets)
-    - Data cleaning 
-    - Data Preprocessing
-    - Data Exploration
-    - Feature Engineering
-- Development of Models (done in Google Colab)
-    - User-based collaborative filtering
-    - Content-based 
-    - Popularity-based 
-    - Latent Dirichlet Allocation (LDA)
-    - LightFM
-    - Neural Collaborative Filtering 
-- Evaluation 
 
+## Technologies
+- Language
+  - Python
+- Packages
+  - sklearn
+  - numpy
+  - recommenders
+  - pandas
+  - scipy
+  - recommenders
+  - matplotlib
+  - wordcloud
+  - transformers
+  - nltk
+
+## Contributors
+- Bernice: 
