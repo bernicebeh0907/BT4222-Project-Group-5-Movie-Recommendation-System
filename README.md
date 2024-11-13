@@ -21,7 +21,6 @@ To adress this issue, we sourced for datasets that were relevant to movie descri
 ![Screenshot 2024-11-13 at 10 16 27 PM](https://github.com/user-attachments/assets/48eeb312-46d7-4454-be2a-48b2f06de836)
 
 
-
 ## Technologies
 - Language
   - Python
@@ -38,4 +37,9 @@ To adress this issue, we sourced for datasets that were relevant to movie descri
   - nltk
 
 ## Contributors
-- Bernice: 
+- Bernice: https://github.com/bernicebeh0907
+- Ern See: https://github.com/ogaycray
+- Hui Ling: https://github.com/hhuilingg
+- Subha: https://github.com/subhadhra-m
+- Vanessa: https://github.com/vancwe03
+
