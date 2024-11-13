@@ -7,7 +7,7 @@ With the rapidly expanding streaming market, consumers are subscribing to more p
 To adress this issue, we sourced for datasets that were relevant to movie descriptions, movie reviews, reviewer's characteristics, movie awards, as well as inflation trends. After conducting data preprocessing, data exploration and feature engineering, we established the following models:
 
 
-    1. User-Based Collaborative Filtering
+    1) User-Based Collaborative Filtering
     2. Item-Based Collaborative Filtering
     3. Content-Based Filtering
     4. Popularity-Based Filtering
