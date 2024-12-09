@@ -11,7 +11,7 @@ To adress this issue, we sourced for datasets that were relevant to movie descri
 2. Item-Based Collaborative Filtering
 3. Content-Based Filtering
 4. Popularity-Based Filtering
-5. Latente Dirichlet Allocation
+5. Latent Dirichlet Allocation
 6. LightFM Model
 7. Neural Collaborative Filtering
     
